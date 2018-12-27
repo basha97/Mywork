@@ -1,0 +1,131 @@
+.candidateModal{
+	background-color: #f0f4f7;
+}
+
+#in_img{
+	border-radius: 50px;
+	padding: 11px;
+	margin-top: 9px;
+    margin-left: 20px;
+
+}
+
+.can_name{
+
+	margin-top: 25px;
+	margin-right: 15px; 
+}
+
+
+#job_head{
+	font-size: 0.929rem;
+    font-weight: 600;
+    color: #283542;
+    text-transform: uppercase;
+    letter-spacing: 0.036rem;
+}
+
+#mod_title{
+	font-size: 1.871rem;
+    font-weight: 1000;
+    color: #283542;
+    text-align: center;
+    border-bottom: 5px;
+    padding: 2px 25px 0 25px;
+    position: relative;
+}
+
+#myfile{
+	display: none;
+	border-radius: 4px;
+    cursor: pointer;
+    white-space: nowrap;
+    align-items: center;
+    position: relative;
+}
+
+#can_email{
+	padding: 50px 25px 25px 25px;
+
+}
+
+#show_less{
+	border: none;
+}
+
+#text_area{
+	width: 100px;
+}
+
+.cancel_btn , .add_btn{
+	margin-top: 25px;
+}
+
+#smallModal_div{
+	background-color: #2e3e4d;	
+}
+
+#tble_img{
+		border-radius: 80px;
+		width: 100%;
+}
+
+#single_img{
+	margin-top: 25px;
+	margin-bottom: 25px;
+	margin-right: 15px;
+	margin-bottom: 30px;
+	border-radius: 40px;
+	width : 65px;
+
+}
+
+.modal .modal-dialog {
+    width: 1142px;
+}
+
+.modal-lg {
+    max-width: 1300px;
+}
+
+.vl{
+	border-left: 6px solid green;
+    height: 500px;
+    position: absolute;
+    left: 50%;
+    margin-left: -3px;
+    top: 0;
+}
+
+.check{
+	background-color: #e8edf1;
+}
+
+.mail_font{
+	font-size: 50px ;
+	float: right;
+}
+
+.no_mail{
+	text-align: center;
+}
+
+/*#sec_section{
+	background-color: #e5ebef;
+}*/
+.dro{
+   background-color: 	#2e3e4d;
+}
+
+
+.p-3{
+	font-size: 35px;
+}
+
+.btn-color{
+	background-color: red;
+}
+
+#bt_grp{
+	margin-top: 5px;
+}
